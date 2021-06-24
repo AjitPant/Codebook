@@ -1,0 +1,1 @@
+kth root of mod = (primitive_root)^((mod-1)/ gcd(mod-1,1<<n) )
